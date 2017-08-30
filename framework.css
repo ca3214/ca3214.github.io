@@ -2,7 +2,7 @@ body{
 	margin: 0;
 }
 html {
-	background-image: url(file:///Users/maglag/Desktop/Temp%20name%20for%20website/Images/rainycity.jpg);
+	background-image: url(file:///Users/kylegrnwd/Desktop/HTML/ca3214.github.io/photos/Starkamp-20141003-0021.jpg);
 	height: 100%;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -31,9 +31,13 @@ ul {
 	padding: 0;
 	width: 20%;
 	border: 5px solid black;
-	height: 100%;
+	height: auto;
 	position: fixed;
 	overflow: auto;
+}
+li {
+	font-size: 20pt;
+	
 }
 li a {
 	display: block;
@@ -42,6 +46,7 @@ li a {
 	text-decoration: none;
 	text-align: center;
 	color: #050404;
+	background-color: #7F7F7F;
 }
 li a.active {
 	background-color: #4CAF50;
