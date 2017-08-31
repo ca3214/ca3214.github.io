@@ -53,6 +53,7 @@ hr {
 	margin-top: 100px;
 }
 footer {
+	background-color: rgba(000,0,0,0.5);
 	margin: 0;
 	height: 19px;
 }
@@ -60,7 +61,7 @@ footer {
 			border: 0.5px solid black;	
 			background-color: #D1C9C2;
 			color: black;
-			text-align: center;
+			text-align: left;
 			margin-left: auto;
 			margin-right:70%;
 			padding-top: 10px;
