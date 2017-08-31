@@ -17,6 +17,7 @@ h1 {
 }
 header {
 	background-color: black;
+	opacity: 0.55;
 }
 .imageborder {
 	padding: 0;
