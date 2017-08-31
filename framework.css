@@ -13,14 +13,11 @@ html {
 h1 {
 	text-align: center;
 	color: white;
-}
-.headerop {
-		opacity: 1.5;
-		font-size: large;
+	font-size: large;
 }
 header {
-	background-color: black;
-	opacity: 0.55;
+		background-color: black;
+		opacity: 0.55;
 }
 .imageborder {
 	padding: 0;
