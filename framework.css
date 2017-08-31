@@ -67,7 +67,8 @@ footer{
 			padding-top: 10px;
 			height: auto;
 			width: auto;
-			font-size: 17pt;
+			font-size: 15pt;
+			word-spacing: 10px;
 			}
 .tempo2 {
 			border: 0.5px solid black;
