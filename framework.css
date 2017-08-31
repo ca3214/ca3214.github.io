@@ -52,8 +52,8 @@ hr {
 	position: fixed;
 	margin-top: 100px;
 }
-footer {
-	background-color: black;
+footer{
+	background-color: rgba(000,0,0,0.5);
 	margin: 0;
 	height: 19px;
 }
