@@ -2,8 +2,9 @@ body{
 	margin: 0;
 	padding: 0;
 }
+/*Background image*/
 html {
-	background-image: url(https://ca3214.github.io/Starkamp-20141003-0021.jpg);
+	background-image: url(https://ca3214.github.io/DarkPlank.jpg);
 	height: 100%;
 	background-position: center;
 	background-repeat: repeat;
