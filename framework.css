@@ -9,6 +9,7 @@ html {
 	background-position: center;
 	background-repeat: repeat;
 	background-size: cover;
+	opacity: 0.75;
 }
 h1 {
 	text-align: center;
