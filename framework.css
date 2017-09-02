@@ -25,6 +25,7 @@ header {
 	margin-top: 4px;
 	opacity: 0.66;
 	border-bottom: 1.5px solid white;
+	border-left: 1.5px solid white;
 }	
 .opacity {
 	opacity: 0.55;
