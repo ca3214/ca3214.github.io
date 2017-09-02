@@ -1,0 +1,43 @@
+/*Framework & Style page for products page.*/
+
+h2 {
+	color: white;
+	background-color: rgba(000,0,0,0.5);
+	border-top: 1px #4CAF50 solid;
+	border-bottom: 1px #4CAF50 solid;
+	padding: 0;
+	margin: 0;
+	position: static;
+}
+/*Table of products styling elements.*/
+
+#products {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	border-collapse: collapse;
+	width: 60%;
+	margin-right: 30px;
+	
+}
+#products td, #products th {
+	border: 1px solid #ddd;
+	padding: 8px;
+}
+#products tr{
+	background-color: #D1C9C2;
+}
+#products tr:hover {background-color: #C5E5E8;}
+#products th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: #4CAF50;
+	color: white;
+}
+
+table {
+	margin-top: 2px;
+	position: static;
+}
+.camp {
+	
+}
