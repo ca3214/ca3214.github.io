@@ -88,10 +88,10 @@ footer{
 }
 #rotate {
 	background: #4CAF50;
-	-webkit-animation: mymove 3s infinite;
-	animation: mymove 3s infinite;
-	animation: mymove 3s infinite;
-	animation: mymove 3s infinite;
+	-webkit-animation: mymove 2s infinite;
+	animation: mymove 2s infinite;
+	animation: mymove 2s infinite;
+	animation: mymove 2s infinite;
 	margin: auto;
 	margin-right: 70%;
 }
