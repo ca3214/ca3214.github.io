@@ -87,19 +87,20 @@ footer{
 	margin: 0;
 }
 #rotate {
-	background: #d1c9c2;
-	-webkit-animation: mymove 1.75s infinite;
-	animation: mymove 1.75s infinite;
-	animation: mymove 1.75s infinite;
+	background: #4CAF50;
+	-webkit-animation: mymove 3s infinite;
+	animation: mymove 3s infinite;
+	animation: mymove 3s infinite;
+	animation: mymove 3s infinite;
 	margin: auto;
 	margin-right: 70%;
 }
 @-webkit-keyframes mymove{
-	from {background-color: #D1C9C2;}
-    to {background-color: #4CAF50;}
-	from {background-color: #D1C9C2;}
-	to {background-color: #4CAF50;}
-	from {background-color: #D1C9C2;}
+	from {background-color: #4CAF50;}
+    to {background-color: white;}
+	from {background-color: #4CAF50;}
+	to {background-color: white;}
+	from {background-color: #4CAF50;}
 }
 ul {
 	font-size: 15pt;
