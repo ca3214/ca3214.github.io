@@ -108,6 +108,7 @@ ul {
 	overflow: auto;
 	height: auto;
 	margin-top: 3%;
+	margin-bottom: 0;
 	z-index: 1;
 	width: 100%;
 }
