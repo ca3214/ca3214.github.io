@@ -26,6 +26,7 @@ header {
 	border-bottom: 1.5px solid white; margin: 0;
 	border-top: 1.5px solid white;
 	margin-bottom: 0;
+	margin-left: 0;
 }	
 .opacity {
 	opacity: 0.55;
