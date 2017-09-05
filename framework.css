@@ -23,10 +23,8 @@ header {
 	margin: 0;
 	margin-top: 4px;
 	opacity: 0.66;
-	border-bottom: 1.5px solid white; margin: 0;
+	border-bottom: 1.5px solid white;
 	border-top: 1.5px solid white;
-	margin-bottom: 0;
-	margin-left: 0;
 }	
 .opacity {
 	opacity: 0.55;
