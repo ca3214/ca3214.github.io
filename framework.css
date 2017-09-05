@@ -95,7 +95,6 @@ footer{
 	animation: mymove 2s infinite;
 	animation: mymove 2s infinite;
 	animation: mymove 2s infinite;
-	margin: auto;
 	margin-right: 70%;
 }
 @-webkit-keyframes mymove{
@@ -139,7 +138,8 @@ li a:hover:not(.active) {
 	
 }
 .imgborder2 {
-	padding: 0;
+	padding: 2px;
+	margin-bottom: 2px;
 	margin: 0;
 	margin-top: 4px;
 	opacity: 0.66;
