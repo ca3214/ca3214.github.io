@@ -27,6 +27,7 @@ header {
 	border-bottom: 3px solid white;
 	border-top: 3px solid white;
 	padding-bottom: 0;
+	padding-top: 3px;
 }	
 .opacity {
 	opacity: 0.55;
