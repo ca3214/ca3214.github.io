@@ -7,7 +7,6 @@ h2 {
 	border-bottom: 1px #4CAF50 solid;
 	padding: 0;
 	margin: 0;
-	position: static;
 }
 /*Table of products styling elements.*/
 
@@ -35,9 +34,6 @@ h2 {
 }
 
 table {
-	margin-top: 2px;
-	position: static;
-}
-.camp {
-	
+	position: inherit;
+	margin-top: 0px;
 }
