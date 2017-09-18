@@ -8,6 +8,20 @@
             <link rel="stylesheet" href="framework.css" />
 			<!--products page style sheet-->
 			<link rel="stylesheet" href="productspage.css" />
+			
+		<style>
+			p {
+				margin-top: 0;
+				margin-bottom: 0;
+				padding-bottom: 5px;
+				padding-top: 3px;
+				padding-left: 5px;
+				margin-left: 34%;
+				margin-right: 0;
+				background-color: #4CAF50;
+			}
+			
+		</style>
 </head>
 
 
@@ -20,17 +34,45 @@
         <hr color="#4CAF50" size="5" />
         <hr color="black" size="6" />
     </header>
-	<h2>The Lighter Side of Life!</h2>
-    <div class="imgborder2">
+	<h2>Contact Us!</h2>
 		<img align="left" src="ca3214.github.io/logo.jpg" alt="Coffee Logo" width="432" height="230" />
-    </div>
-	
-			<ul>
+			<p> Have a question or comment? Fill out a form below with your <br/>
+				name, email, and the reason for your much appreciated question<br/>
+				or concern. Once submitted, one of our extra stout and experienced<br/>
+				bean employees will reply to you via email as soon as we can!<br />
+				Thanks again for reaching out!
+			</p>
+	<div class="contactul">
+	<ul>
 				<li><a class="active">Menu</a><i class="fa fa-coffee" style="font-size:24px;color:black;"></i></li>
 				<li><a href="index.html">Home</a><i class="fa fa-coffee" style="font-size:24px;color:black;"></i></li>
 				<li><a href="darkroast.html">Dark Roast</a><i class="fa fa-coffee" style="font-size:24px;color:black;"></i></li>
 				<li><a href="lightroast.html">Light Roast</a></li>
 				<li><a href="contact.html">Get in Touch!</a></li>
 			</ul>
+	
+	<!--contact form for customers-->
+	<form align="right">
+		<fieldset>
+			<legend>Question/Comment Contact Form</legend>
+			First name:<br>
+			<input type="text" name="firstname"><br>
+			Last name:<br>
+			<input type="text" name="lastname"><br>
+			E-mail:<br>
+			<input type="email" name="email"><br>
+			<input type="radio" name="question" value="question" checked>
+			Question<br>
+			<input type="radio" name="problem" value="problem">
+			Problem<br>
+			<input type="radio" name="order status update" value="order status update">
+			Order update status<br>
+			<textarea rows="4" cols="50" name="comment">
+				Enter your comment here...
+			</textarea>
+		</fieldset>
+	</form>
+	</div>
+		
 </body>
 </html>
