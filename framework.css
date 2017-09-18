@@ -129,9 +129,11 @@ form {
 	margin-bottom: 30%;
 	margin-top:0;
 	float: right;
-	margin-right: auto;
-	margin-left: 60%;
+	margin-right: 0;
+	margin-left: 36.18%;
+	text-align: left;
 	position: absolute;
+	width: 100%;
 }
 fieldset { 
     display: block;
@@ -153,7 +155,4 @@ legend {
 	margin-bottom: 0;
 	padding-bottom: 0;
 	padding-top: 3px;
-}
-.contactul {
-	margin-top: 18.25%;
 }
