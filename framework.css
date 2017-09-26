@@ -5,6 +5,31 @@ body{
 	font-size: 0.5em;
 	font-style: normal;
 }
+/*unvisited link*/
+a:link {
+	color: white;
+	font-family: Chalkduster;
+	font-size: 1.25em;
+	text-shadow: 3px 2px black;
+}
+/*visited link*/
+a:visited {
+	color: #4CAF50;
+	font-family: Chalkduster;
+	font-size: 1em;
+}
+/*mouse hover over link*/
+a:hover {
+	color: hotpink;
+	font-family: Chalkduster;
+	font-size: 1em;
+}
+/*selected link*/
+a:active {
+	color: red;
+	font-family: Chalkduster;
+	font-size: 1em;
+}
 /*Background image*/
 html {
 	background-image: url(https://ca3214.github.io/DarkPlank.jpg);
@@ -16,6 +41,11 @@ html {
 h1 {
 	text-align: center;
 	color: white;
+}
+/*header 2 font style*/
+h2 {
+	font-family: Chalkduster;
+	font-size: 3em;
 }
 header {
 		background-color: rgba(000,0,0,0.5);
@@ -46,11 +76,6 @@ h4 {
 hr {
 	margin: 0;
 	margin-bottom: 0;
-}
-footer{
-	background-color: rgba(000,0,0,0.5);
-	margin: 0;
-	height: 19px;
 }
 .tempo1 {
 			border: 0.5px solid black;	
@@ -95,6 +120,31 @@ ul i {
     text-align: right;
 	left: 0px;
 	width: 28%;
+}
+.doggo {
+	position: fixed;
+    bottom: 0;
+    right: 0;
+	left: 0;
+	margin-left: 75%;
+    width: 300px;
+	text-align: center;
+	font-size: 2em;
+	font-family: Chalkduster;
+	background-color: rgba(000,0,0,0.5);
+	height: 30px;
+}
+.catto {
+	position: fixed;
+    bottom: 0;
+    right: 0;
+	left: 0;
+    width: 300px;
+	text-align: center;
+	font-size: 2em;
+	font-family: Chalkduster;
+	background-color: rgba(000,0,0,0.5);
+	height: 30px;
 }
 li a { 
 	height: 30px;
