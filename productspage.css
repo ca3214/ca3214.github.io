@@ -11,7 +11,8 @@ h2 {
 /*Table of products styling elements.*/
 
 #products {
-	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-family: "Chalkduster";
+	font-size: 1.75em;
 	border-collapse: collapse;
 	width: 60%;
 	margin-right: 30px;

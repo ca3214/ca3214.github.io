@@ -1,6 +1,9 @@
 body{
 	margin: 0;
 	padding: 0;
+	font-family: "Chalkduster";
+	font-size: 0.5em;
+	font-style: normal;
 }
 /*Background image*/
 html {
