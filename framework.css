@@ -2,7 +2,7 @@ body{
 	margin: 0;
 	padding: 0;
 	font-family: "Chalkduster";
-	font-size: 0.5em;
+	font-size: 0.75em;
 	font-style: normal;
 }
 /*unvisited link*/
@@ -102,6 +102,7 @@ hr {
 			height: auto;
 			width: auto;
 			margin-top: 0;
+			font-size: 0.65em;
 			}
 .imgpad {
 	margin: 0;
@@ -146,6 +147,7 @@ ul i {
 	background-color: rgba(000,0,0,0.5);
 	height: 30px;
 }
+
 li a { 
 	height: 30px;
 	width: 91.5%;
@@ -174,6 +176,7 @@ li a.active {
 	background-color: #4CAF50;
     color: white;
 	text-align: center;
+	font-size: 1em;
 	
 }
 form {
