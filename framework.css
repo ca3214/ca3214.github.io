@@ -4,6 +4,9 @@ body{
 	font-family: "Chalkduster";
 	font-size: 0.75em;
 	font-style: normal;
+	height: auto;
+	width: 1500px;
+	margin: 0 auto;
 }
 /*unvisited link*/
 a:link {
@@ -33,7 +36,9 @@ a:active {
 /*Background image*/
 html {
 	background-image: url(https://ca3214.github.io/DarkPlank.jpg);
-	height: 100%;
+	height: auto;
+	width: 1500px;
+	margin: 0 auto;
 	background-position: center;
 	background-repeat: repeat;
 	background-size: cover;
